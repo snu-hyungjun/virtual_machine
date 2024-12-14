@@ -22,4 +22,8 @@
  8) 파일 설명
      __init__
     exceptions : 예외 상황들 받아서 처리
-    ixx
+    ixx : 길이가 고정된 2진수 정수에 대한 처리 함수
+    petite_vm:
+    utils:
+    virtual_machine:
+    exceptions: 예외 처리 함수, 예외 처리는 전부 구현되지는 않음
